@@ -1,0 +1,9 @@
+[gd_resource type="Resource" script_class="JumpState" load_steps=2 format=3 uid="uid://dhltkgg8thocu"]
+
+[ext_resource type="Script" path="res://Scripts/CSharpScript/JumpState.cs" id="1_hcqfr"]
+
+[resource]
+script = ExtResource("1_hcqfr")
+AnimationName = "AirJumpState"
+JumpHeight = 2.5
+ApexDuraction = 0.4

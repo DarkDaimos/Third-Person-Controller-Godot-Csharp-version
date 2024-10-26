@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="MovementState" load_steps=2 format=3 uid="uid://vornntr5st5g"]
+
+[ext_resource type="Script" path="res://Scripts/CSharpScript/MovementState.cs" id="1_iyllu"]
+
+[resource]
+script = ExtResource("1_iyllu")
+Id = 3
+MovementSpeed = 12.0
+Acceleration = 4.0
+CameraFov = 85.0
+AnimationSpeed = 1.5

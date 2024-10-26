@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="MovementState" load_steps=2 format=3 uid="uid://cuclqafgrl4h4"]
+
+[ext_resource type="Script" path="res://Scripts/CSharpScript/MovementState.cs" id="1_dre52"]
+
+[resource]
+script = ExtResource("1_dre52")
+Id = 1
+MovementSpeed = 3.0
+Acceleration = 7.0
+CameraFov = 72.5
+AnimationSpeed = 0.7

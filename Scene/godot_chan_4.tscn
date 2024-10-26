@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://sep7k5pya4s8"]
+
+[ext_resource type="PackedScene" uid="uid://s0u2hndscpni" path="res://Assets/Characters/Player/godot_chan_4.glb" id="1_26yt8"]
+
+[node name="godot_chan_4" instance=ExtResource("1_26yt8")]
+
+[node name="Skeleton3D" parent="Godot_Chan" index="0"]
+transform = Transform3D(-1, 0, -8.74228e-08, 0, 1, 0, 8.74228e-08, 0, -1, 0, 0, 0)
