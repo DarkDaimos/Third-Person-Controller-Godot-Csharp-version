@@ -2,6 +2,10 @@
 
 This repository contains a Godot project with a third-person character controller written in C#.
 
+## Repository Information
+
+This repository was created based on the video tutorials by the [Johnny Rouddro](https://github.com/JohnnyRouddro). You can find the tutorials on their [YouTube channel](https://www.youtube.com/watch?v=C-1AerTEjFU).
+
 ## Building
 
 The project was created using **Godot v4.2.1-stable_mono_win64**. To run the project, simply:
@@ -24,6 +28,4 @@ The character controller includes the following features:
 To customize the controller for your needs, open the `ThirdPersonControl.tscn` file and modify the parameters as necessary. 
 Or you can open the code editor directly in the godot environment.
 
-## Repository Information
-
-This repository was created based on the video tutorials by the [Johnny Rouddro](https://github.com/JohnnyRouddro). You can find the tutorials on their [YouTube channel](https://www.youtube.com/watch?v=C-1AerTEjFU).
+![](screenshot.png)
