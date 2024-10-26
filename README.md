@@ -16,7 +16,7 @@ The project was created using **Godot v4.2.1-stable_mono_win64**. To run the pro
 
 The character controller includes the following features:
 
-* Smooth movement in 8 directions.
+* Smooth movement.
 * Walk and run animations.
 * Jumping.
 * Camera control.
